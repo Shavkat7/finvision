@@ -1,0 +1,177 @@
+{
+  "entity": {
+    "official_name_en": "Joint-Stock Commercial Bank \"Uzbek Industrial and Construction Bank\"",
+    "official_name_uz": "\"O'zbekiston sanoat-qurilish banki\" aksiyadorlik tijorat banki",
+    "official_name_ru": "Акционерный коммерческий банк \"Узпромстройбанк\"",
+    "short_names": ["SQB", "Uzpromstroybank", "Узпромстройбанк"],
+    "founded_year": 1922,
+    "founded_date_full": "1922-10-28",
+    "legal_form": "Joint-Stock Commercial Bank (ATB / JSCB)",
+    "ownership": "State-owned majority (Ministry of Economy and Finance + UFRD/UzNIF). 2nd-largest bank in Uzbekistan by assets.",
+    "central_bank_license_number": "17"
+  },
+
+  "contact": {
+    "head_office_address": "3 Shahrisabz Street, Yunusabad district, Tashkent 100000, Uzbekistan",
+    "phones": {
+      "call_center_24x7_toll_free_uz": "0 800 120-77-77",
+      "short_code": "1180",
+      "international": "+998 71 200 43 43",
+      "helpline": "+998 78 777 11 80",
+      "business_contact_center": "1338",
+      "anti_corruption_hotline": "0 800 120 8888"
+    },
+    "email": "info@sqb.uz",
+    "website": "https://sqb.uz",
+    "telegram_chatbot": "@sqbchat_bot",
+    "whatsapp": "+998 94 210 43 43",
+    "operating_hours_head_office": "Mon-Fri 09:00-18:00 (lunch 13:00-14:00)"
+  },
+
+  "social_media": {
+    "facebook": "https://www.facebook.com/sqbuz/",
+    "instagram": "https://www.instagram.com/sqbuz/ (@sqbuz, ~139K followers)",
+    "telegram_channel": "https://t.me/sqbuz",
+    "linkedin": "https://www.linkedin.com/company/sqbuz",
+    "youtube": "https://www.youtube.com/channel/UC3DYBsBUvAUv-_5NBPf81uw"
+  },
+
+  "digital": {
+    "online_banking_individual": "https://ibank.sqb.uz/cib/",
+    "online_banking_business": "https://business.sqb.uz/",
+    "mobile_app_name": "SQB Mobile (formerly 'On the spot' / 'Joyda')",
+    "mobile_app_android": "https://play.google.com/store/apps/details?id=com.uzpsb.olam",
+    "mobile_app_ios": "https://apps.apple.com/us/app/joyda/id1499606946",
+    "key_digital_features": [
+      "Online mortgage and online auto loan",
+      "Microloan in SQB Mobile",
+      "Online and offline OVERDRAFT",
+      "Digital gold purchase (2025 — 'Oltin endi smartfoningizda!')"
+    ]
+  },
+
+  "leadership": {
+    "chairman_current": {
+      "name": "Aziz Akbarjonov",
+      "role": "Chairman of the Management Board",
+      "appointed": "October 2023",
+      "born_year": 1985,
+      "background": "20+ years in banking. Joined SQB 2018 as Head of Project Management; later Chief Credit Officer and First Deputy Chairman.",
+      "email": "a.akbarjonov@sqb.uz"
+    },
+    "first_deputy_chairman": {
+      "name": "Anvarjon Ergashev",
+      "role": "First Deputy Chairman of the Management Board",
+      "appointed": "December 2023",
+      "supervises": "IT Department, Card Payment Systems, Artificial Intelligence Department"
+    }
+  },
+
+  "ratings": {
+    "fitch":   { "rating": "BB",  "outlook": "Stable",   "as_of": "2025" },
+    "moodys":  { "rating": "Ba3", "outlook": "Positive", "as_of": "2025" },
+    "ahbor_reyting_national": { "rating": "uzA+", "outlook": "Positive" }
+  },
+
+  "key_financials_2024": {
+    "total_assets_uzs_trillion": 87.6,
+    "total_assets_usd_billion": 6.9,
+    "net_loans_uzs_trillion": 65.5,
+    "rank_in_country": "2nd-largest bank by assets and loan portfolio",
+    "capital_adequacy_total_ratio_post_2025_at1_pct": 19.0
+  },
+
+  "operational_footprint": {
+    "branches": 46,
+    "service_offices": 79,
+    "atms": 384,
+    "employees": 3929,
+    "retail_clients_approx": "1.5 million+",
+    "geography": "Branches in all regions/oblasts of Uzbekistan"
+  },
+
+  "products_individuals": {
+    "deposits": ["Yevro", "Ideal", "Green deposit", "Sarmoya"],
+    "consumer_loans": [
+      "Microloan via open credit line",
+      "Auto loan", "Uzavto-Chevrolet 1 auto loan", "Secondary-market vehicle loan",
+      "Microloan (Mikroqarz)",
+      "Biznesga ikkinchi qadam (Second step to business) microloan",
+      "Agroko'makchi (Agro-helper) microloan",
+      "Credit card",
+      "Ta'lim (Education) loan",
+      "SQB Mobile in-app microloan",
+      "Online OVERDRAFT", "Offline OVERDRAFT",
+      "Iste'mol (Consumer) loan",
+      "Salary advance (Ish haqi avansi)"
+    ],
+    "mortgages": [
+      "Ishonchli mortgage (any home)",
+      "Imkon mortgage",
+      "Exclusive Mortgage",
+      "Mortgage for new housing",
+      "Yangi uyga ipoteka (New-house mortgage)",
+      "Hamkor (Partner) mortgage",
+      "Yashil ta'mir (Green renovation) mortgage",
+      "Mulk-ulushdor (Property co-ownership) mortgage",
+      "KAPITAL IPOTEKA (launched Aug 2025)"
+    ],
+    "cards": [
+      "Visa Infinite", "Visa Platinum", "Visa Classic", "Visa Classic Virtual",
+      "Mastercard World Elite", "Mastercard Black Edition", "Mastercard World",
+      "UnionPay Gold",
+      "UZCARD Sherdor Premium", "UZCARD Moment (Instant)", "UZCARD Virtual", "UZCARD Duo",
+      "HUMO", "HUMO Virtual"
+    ],
+    "transfers": ["UPT", "MoneyGram", "Zolotaya Korona", "RIA", "CONTACT", "UNIStream", "Asia Express", "Western Union", "SWIFT"],
+    "investments": ["Digital gold bars via SQB Mobile (launched 2025)"],
+    "other_services": ["Safety deposit boxes", "Currency exchange", "Premium banking center"]
+  },
+
+  "products_business": {
+    "small_business_loans_and_guarantees": ["Credit Products", "Credit Lines", "SME Green Loan"],
+    "small_business_deposits": ["Online deposit", "Qulay Valyuta savings", "Qulay savings", "Foydali deposit", "Bonus+ deposit", "Business Advance term deposit", "Oson Daromad deposit", "Classic deposit"],
+    "payment_acceptance": ["Merchant Acquiring", "Mobile POS terminals", "ATMs and Infokiosks"],
+    "corporate_financing": [
+      "Working-capital replenishment",
+      "Auto loan",
+      "Investment-project financing",
+      "Bank guarantees",
+      "Agricultural project financing",
+      "Green project financing",
+      "Construction-works financing",
+      "Pre-export financing (EKSPORT OLDI MOLIYASHTIRISH)",
+      "CORPORATE GREEN LOAN",
+      "GREEN ENERGY MICROLOAN (solar panels)",
+      "GLOBAL LIMIT (universal loan package)",
+      "Islamic trade finance"
+    ],
+    "corporate_sector_focus": ["Chemicals", "Energy", "Metallurgy", "Construction & construction materials", "Agriculture", "Textiles", "Manufacturing", "Oil & Gas"]
+  },
+
+  "subsidiaries": [
+    {"name": "SQB Insurance",       "url": "https://psbinsurance.uz/", "function": "Insurance subsidiary, Fitch BB / Outlook Stable"},
+    {"name": "SQB Capital",         "url": "https://sqbc.uz/",          "function": "Capital markets / brokerage"},
+    {"name": "SQB Factoring LLC",                                       "function": "Factoring services"},
+    {"name": "SQB Microfinance LLC",                                    "function": "Microfinance services"}
+  ],
+
+  "history_key_milestones": [
+    {"year": 1922, "event": "Founded 28 October 1922 as Central Asian branch of USSR Trade and Industry Bank in Tashkent."},
+    {"year": 1991, "event": "After USSR collapse, became the independent joint-stock commercial bank 'Uzsanoatqurilishbank'."},
+    {"year": 2009, "event": "Officially renamed 'Joint-Stock Commercial Bank Uzbek Industrial and Construction Bank' (JSCB Uzpromstroybank)."},
+    {"year": 2020, "event": "Launched mobile app 'On the spot' / 'Joyda' (now SQB Mobile). Green Banking Department established (2019); ESG procedures developed."},
+    {"year": 2023, "event": "Aziz Akbarjonov appointed Chairman of the Management Board."},
+    {"year": 2025, "event": "Won Euromoney 'Best Bank in Uzbekistan' (July 2025). $300m AT1 Eurobond placed on LSE — oversubscribed ~5x."}
+  ],
+
+  "top_awards": [
+    "Euromoney Awards for Excellence 2025 — Best Bank, Uzbekistan",
+    "Euromoney Best ESG Bank in Uzbekistan (2024)",
+    "Euromoney Best Corporate Bank in Uzbekistan",
+    "AIFC 'Best Green Bank of 2020'",
+    "EBRD 'Green TFP — Champion in Green Trade Finance in Uzbekistan' (2025)"
+  ],
+
+  "iso_certification": "ISO 37001:2016 ABMS (Anti-Bribery Management System)"
+}
